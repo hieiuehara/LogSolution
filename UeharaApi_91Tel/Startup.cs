@@ -27,8 +27,8 @@ namespace UeharaApi_91Tel
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<IServiceProvider, ServiceProvider>();
-            services.AddTransient<ILogResponseRepository, LogResponseRepository>();
-            services.AddSingleton<IClientApi91>(new ClientApi91(new Uri(@"http://integracao.epbx.com.br:5050")));
+            services.AddScoped<ILogResponseRepository, LogResponseRepository>();
+            services.AddScoped<IClientApi91>(new ClientApi91(new Uri(@"http://integracao.epbx.com.br:5050")));
             services.AddDbContext<LogResponseDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddCors(options =>
             options.AddPolicy("AllowSpecific", p => p.WithOrigins("http://localhost:4200")

@@ -1,0 +1,85 @@
+<mat-table #table [dataSource]="dataSource">
+
+    <ng-container matColumnDef="logSistemaId">
+      <mat-header-cell *matHeaderCellDef> Id </mat-header-cell>
+      <mat-cell *matCellDef="let element"> {{element.logSistemaId}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="data">
+      <mat-header-cell *matHeaderCellDef> Data </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.data}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="origem">
+      <mat-header-cell *matHeaderCellDef> Origem </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.origem}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="contexto">
+      <mat-header-cell *matHeaderCellDef> Contexto </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.contexto}}  </mat-cell>
+    </ng-container>
+    
+    <ng-container matColumnDef="severidade">
+      <mat-header-cell *matHeaderCellDef> Severidade </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.severidade}}  </mat-cell>
+    </ng-container>
+    
+    <ng-container matColumnDef="mensagem">
+      <mat-header-cell *matHeaderCellDef> Mensagem </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.mensagem}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="arquivoFonte">
+      <mat-header-cell *matHeaderCellDef> Arquivo Fonte </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.arquivoFonte}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="metodoFonte">
+      <mat-header-cell *matHeaderCellDef> Método Fonte </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.metodoFonte}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="maquina">
+      <mat-header-cell *matHeaderCellDef> Máquina </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.maquina}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="linhaFonte">
+      <mat-header-cell *matHeaderCellDef> Linha Fonte </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.linhaFonte}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="propriedades">
+      <mat-header-cell *matHeaderCellDef> Propriedades </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.propriedades}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="excecao">
+      <mat-header-cell *matHeaderCellDef> Exceção </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.excecao}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="origemiD">
+      <mat-header-cell *matHeaderCellDef> OrigemId </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.origemiD}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="logContextoiD">
+      <mat-header-cell *matHeaderCellDef> LogContextoId </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.logContextoiD}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="usuarioiD">
+      <mat-header-cell *matHeaderCellDef> UsuárioId </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.usuarioiD}}  </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="nomeUsuario">
+      <mat-header-cell *matHeaderCellDef> Nome do Usuário </mat-header-cell>
+      <mat-cell *matCellDef="let element">{{element.nomeUsuario}}  </mat-cell>
+    </ng-container>
+
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+  </mat-table>

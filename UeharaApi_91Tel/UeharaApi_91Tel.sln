@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UeharaApi_91Tel", "UeharaApi_91Tel.csproj", "{267AEA7F-F765-472C-AF6A-D6368984CA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UeharaApi_91Tel_Test", "UeharaApi_91Tel_Test\UeharaApi_91Tel_Test.csproj", "{7526601E-F038-441D-937C-CECC872B50F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267AEA7F-F765-472C-AF6A-D6368984CA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267AEA7F-F765-472C-AF6A-D6368984CA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267AEA7F-F765-472C-AF6A-D6368984CA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267AEA7F-F765-472C-AF6A-D6368984CA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7526601E-F038-441D-937C-CECC872B50F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7526601E-F038-441D-937C-CECC872B50F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7526601E-F038-441D-937C-CECC872B50F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7526601E-F038-441D-937C-CECC872B50F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

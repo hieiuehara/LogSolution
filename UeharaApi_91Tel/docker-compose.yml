@@ -1,0 +1,20 @@
+﻿version: "3"
+services:
+    ueharaapi:
+        image: ueharaapi
+        build:
+          context: .
+        ports:
+          - "20000:80"
+        depends_on:
+            - "db"
+
+    db:
+       image: "microsoft/mssql-server-linux"
+       ports:
+         - "1433:1433"
+       volumes:
+         - /var/run/docker.sock:/var/run/docker.sock
+       environment:
+           SA_PASSWORD: "<YourStrong!Passw0rd>"
+           ACCEPT_EULA: "Y"

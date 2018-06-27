@@ -1,0 +1,96 @@
+2018-06-26 13:47:17.6008 Info Message Template Auto Format enabled
+2018-06-26 13:47:17.6353 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 13:47:17.7561 Info Adding target File Target[allfile]
+2018-06-26 13:47:17.7925 Info Adding target File Target[ownFile-web]
+2018-06-26 13:47:17.8022 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/nlog.config...
+2018-06-26 13:47:17.8164 Info Found 45 configuration items
+2018-06-26 13:48:06.0078 Info Message Template Auto Format enabled
+2018-06-26 13:48:06.0345 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 13:48:06.1415 Info Adding target File Target[allfile]
+2018-06-26 13:48:06.1781 Info Adding target File Target[ownFile-web]
+2018-06-26 13:48:06.1878 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/nlog.config...
+2018-06-26 13:48:06.2019 Info Found 45 configuration items
+2018-06-26 15:19:52.6039 Info Message Template Auto Format enabled
+2018-06-26 15:19:52.6377 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:19:52.7493 Info Adding target File Target[allfile]
+2018-06-26 15:19:52.7857 Info Adding target File Target[ownFile-web]
+2018-06-26 15:19:52.7964 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:19:52.8110 Info Found 45 configuration items
+2018-06-26 15:31:53.8663 Info Message Template Auto Format enabled
+2018-06-26 15:31:53.8980 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:31:54.0028 Info Adding target File Target[allfile]
+2018-06-26 15:31:54.0375 Info Adding target File Target[ownFile-web]
+2018-06-26 15:31:54.0452 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:31:54.0577 Info Found 45 configuration items
+2018-06-26 15:32:48.5418 Info Message Template Auto Format enabled
+2018-06-26 15:32:48.5754 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:32:48.6733 Info Adding target File Target[allfile]
+2018-06-26 15:32:48.7131 Info Adding target File Target[ownFile-web]
+2018-06-26 15:32:48.7224 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:32:48.7421 Info Found 45 configuration items
+2018-06-26 15:33:12.8762 Info Message Template Auto Format enabled
+2018-06-26 15:33:12.8998 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:33:13.0279 Info Adding target File Target[allfile]
+2018-06-26 15:33:13.0601 Info Adding target File Target[ownFile-web]
+2018-06-26 15:33:13.0683 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:33:13.0813 Info Found 45 configuration items
+2018-06-26 15:35:32.4113 Info Message Template Auto Format enabled
+2018-06-26 15:35:32.4456 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:35:32.5386 Info Adding target File Target[allfile]
+2018-06-26 15:35:32.5686 Info Adding target File Target[ownFile-web]
+2018-06-26 15:35:32.5768 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:35:32.5892 Info Found 45 configuration items
+2018-06-26 15:36:43.1950 Info Message Template Auto Format enabled
+2018-06-26 15:36:43.2304 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:36:43.3425 Info Adding target File Target[allfile]
+2018-06-26 15:36:43.3766 Info Adding target File Target[ownFile-web]
+2018-06-26 15:36:43.3844 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:36:43.3970 Info Found 45 configuration items
+2018-06-26 15:38:23.5266 Info Message Template Auto Format enabled
+2018-06-26 15:38:23.5603 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:38:23.6537 Info Adding target File Target[allfile]
+2018-06-26 15:38:23.6846 Info Adding target File Target[ownFile-web]
+2018-06-26 15:38:23.6922 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:38:23.7049 Info Found 45 configuration items
+2018-06-26 15:39:47.7511 Info Message Template Auto Format enabled
+2018-06-26 15:39:47.7881 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:39:47.8929 Info Adding target File Target[allfile]
+2018-06-26 15:39:47.9263 Info Adding target File Target[ownFile-web]
+2018-06-26 15:39:47.9340 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:39:47.9469 Info Found 45 configuration items
+2018-06-26 15:40:15.7233 Info Message Template Auto Format enabled
+2018-06-26 15:40:15.7499 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:40:15.8420 Info Adding target File Target[allfile]
+2018-06-26 15:40:15.8740 Info Adding target File Target[ownFile-web]
+2018-06-26 15:40:15.8818 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:40:15.8943 Info Found 45 configuration items
+2018-06-26 15:40:49.6741 Info Message Template Auto Format enabled
+2018-06-26 15:40:49.7103 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 15:40:49.8059 Info Adding target File Target[allfile]
+2018-06-26 15:40:49.8449 Info Adding target File Target[ownFile-web]
+2018-06-26 15:40:49.8581 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 15:40:49.8806 Info Found 45 configuration items
+2018-06-26 17:34:39.2323 Info Message Template Auto Format enabled
+2018-06-26 17:34:39.2861 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 17:34:39.3985 Info Adding target File Target[allfile]
+2018-06-26 17:34:39.4375 Info Adding target File Target[ownFile-web]
+2018-06-26 17:34:39.4469 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 17:34:39.4605 Info Found 45 configuration items
+2018-06-26 17:35:19.8109 Info Message Template Auto Format enabled
+2018-06-26 17:35:19.8325 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 17:35:19.9187 Info Adding target File Target[allfile]
+2018-06-26 17:35:19.9495 Info Adding target File Target[ownFile-web]
+2018-06-26 17:35:19.9576 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 17:35:19.9705 Info Found 45 configuration items
+2018-06-26 17:42:36.6669 Info Message Template Auto Format enabled
+2018-06-26 17:42:36.6988 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 17:42:36.7896 Info Adding target File Target[allfile]
+2018-06-26 17:42:36.8199 Info Adding target File Target[ownFile-web]
+2018-06-26 17:42:36.8278 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 17:42:36.8402 Info Found 45 configuration items
+2018-06-26 17:52:14.4714 Info Message Template Auto Format enabled
+2018-06-26 17:52:14.5008 Info Loading assembly: NLog.Web.AspNetCore
+2018-06-26 17:52:14.5901 Info Adding target File Target[allfile]
+2018-06-26 17:52:14.6191 Info Adding target File Target[ownFile-web]
+2018-06-26 17:52:14.6265 Info Configured from an XML element in /Users/felipeuehara/Projects/UeharaApi_91Tel/bin/Debug/netcoreapp2.1/NLog.config...
+2018-06-26 17:52:14.6388 Info Found 45 configuration items
